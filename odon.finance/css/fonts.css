@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Gilroy-Regular;
+    src: url(../fonts/Gilroy-Regular.woff);
+}
+
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(../fonts/Gilroy-Bold.woff);
+}
+
+html * {
+    font-size: 16px;
+    line-height: 1.625;
+    font-family: Gilroy-Regular;
+}
+
+.footerFontSize ul li a {
+    font-size: 0.89rem;
+}
